@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <!-- TODO: Placeholder text -->
+    <string name="hello_blank_fragment">Hello Fragment</string>
+
+    <string name="random_text">Random Text</string>
+</resources>
