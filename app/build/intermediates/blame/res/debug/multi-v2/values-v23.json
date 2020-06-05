@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pawankumar/Desktop/My Notes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/pawankumar/.gradle/caches/transforms-2/files-2.1/17cd115ca9dfe9d0b71a08d5bda029d1/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "3268",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3413"
+                    }
+                },
+                {
+                    "source": "/Users/pawankumar/.gradle/caches/transforms-2/files-2.1/c483ac1187766d4364ebd98e1c62492f/appcompat-1.0.2/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,30,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "677,812,947,1022,1109,1899,2701,2828,2933,3048,3155",
+                        "endLines": "13,14,15,16,29,42,43,44,45,46,47",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "807,942,1017,1104,1894,2696,2823,2928,3043,3150,3263"
+                    }
+                },
+                {
+                    "source": "/Users/pawankumar/Desktop/My Notes/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "9,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "360,59",
+                        "endLines": "14,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "688,352"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,383",
+                        "endLines": "7,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "378,672"
+                    }
+                }
+            ]
+        }
+    ]
+}
